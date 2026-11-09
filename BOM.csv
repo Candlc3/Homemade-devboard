@@ -1,15 +1,16 @@
-Part,Qty,LCSC,Vendor,Price
-RP2350A,1,C42411118,Raspberry Pi,1.2939
-AP2112K-3.3TRG1,1,C51118,Diodes Incorporated,0.1829
-W25Q128JVSIQ,1,C97521,Winbond Elec,2.3195
-TYPE-C-31-M-12,1,C165948,Korean Hroparts Elec,0.1868
-X322512MSB4SI 12MHz Crystal,1,C9002,YXC Crystal Oscillators,0.0954
-SWPA4030S3R3MT 3.3uH Inductor,1,C15269,Sunlord,0.0611
-0603WAF330JT5E 33Ω Resistor,5,C23140,UNI-ROYAL(Uniroyal Elec),0.0024
-0603WAJ0103T5E 10kΩ Resistor,5,C15401,UNI-ROYAL(Uniroyal Elec),0.0015
-RC0603JR-075K1L 5.1kΩ Resistor,5,C14677,YAGEO,0.0035
-CL10B104KA8NNNC 100nF Capacitor,10,C1590,Samsung Electro-Mechanics,0.0143
-CL10A475KP8NNNC 4.7µF Capacitor,5,C1705,Samsung Electro-Mechanics,0.0127
-CL10A106KP8NNNC 10µF Capacitor,10,C19702,Samsung Electro-Mechanics,0.0203
-CL10C200JB8NNNC 20pF Capacitor,5,C1648,Samsung Electro-Mechanics,0.0090
-TS-1088-AR02016 Tactile Switch,5,C720477,XUNPU,0.0527
+Item,Qty,Supplier,Cost/item,Total Cost,link
+RP2350A,1,Raspberry Pi,$1.29,$1.29,
+AP2112K-3.3TRG1,1,Diodes Incorporated,$0.18,$0.18,
+W25Q128JVSIQ,1,Winbond Elec,$2.32,$2.32,
+TYPE-C-31-M-12,1,Korean Hroparts Elec,$0.19,$0.19,
+X322512MSB4SI 12MHz Crystal,1,YXC Crystal Oscillators,$0.10,$0.10,
+SWPA4030S3R3MT 3.3uH Inductor,1,Sunlord,$0.06,$0.06,
+0603WAF330JT5E 33Ω Resistor,5,UNI-ROYAL(Uniroyal Elec),$0.00,$0.00,
+0603WAJ0103T5E 10kΩ Resistor,5,UNI-ROYAL(Uniroyal Elec),$0.00,$0.00,
+RC0603JR-075K1L 5.1kΩ Resistor,5,YAGEO,$0.00,$0.00,
+CL10B104KA8NNNC 100nF Capacitor,10,Samsung Electro-Mechanics,$0.01,$0.10,
+CL10A475KP8NNNC 4.7µF Capacitor,5,Samsung Electro-Mechanics,$0.01,$0.05,
+CL10A106KP8NNNC 10µF Capacitor,10,Samsung Electro-Mechanics,$0.02,$0.20,
+CL10C200JB8NNNC 20pF Capacitor,5,Samsung Electro-Mechanics,$0.01,$0.05,
+TS-1088-AR02016 Tactile Switch,5,XUNPU,$0.05,$0.25,
+Estimated total shipping,1,,,$0.00,
