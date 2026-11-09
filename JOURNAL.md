@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/d6d7htc0qn7bhq04qb3jhlx1)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> ayo ock lemme get a custom devboard with an rp2350A but hold the guide
+> ayo ock lemme get a custom devboard with an rp2350A but hold the guide. this will be used for future projects ofc
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
