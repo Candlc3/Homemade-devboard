@@ -1,2 +1,15 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+Designator,Quantity,Value/Description,LCSC Part
+U1,1,RP2350A Microcontroller,C42411118
+U2,1,AP2112K-3.3 3.3V LDO Regulator,C51118
+U3,1,W25Q128JVSIQ 128Mbit SPI Flash,C97521
+J1,1,TYPE-C-31-M-12 USB-C Receptacle,C165948
+Y1,1,12MHz Crystal,C9002
+L1,1,3.3uH Power Inductor,C15269
+R1-R5,5,33R 0603 1% Resistor,C23140
+R6-R10,5,10kR 0603 1% Resistor,C15401
+R11-R15,5,5.1kR 0603 1% Resistor,C14677
+C1-C10,10,100nF 25V X7R 0603 Capacitor,C1590
+C11-C15,5,4.7uF 10V X5R 0603 Capacitor,C1705
+C16-C25,10,10uF 10V X5R 0603 Capacitor,C19702
+C26-C30,5,20pF 50V C0G 0603 Capacitor,C1648
+SW1-SW5,5,TS-1088-AR02016 Tactile Switch,C720477
